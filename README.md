@@ -1,6 +1,6 @@
 # Re-learn-Java
 ## Week 1:
--**Java Core**
--**OOP**
--**HTML, CSS, JAVASCRIPT**
--**BOOTSTRAP**
+<p>* **Java Core**</p>
+<p>* **OOP**<p>
+<p>* **HTML, CSS, JAVASCRIPT** </p>
+<p>* **BOOTSTRAP**</p>
